@@ -1,3 +1,0 @@
-#NOMBRES
-
-##Izan Santos Bascoy
