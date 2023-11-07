@@ -1,5 +1,5 @@
 #Nombres 
 ##Izan Santos Bascoy
-## Alejandro Rodríguez
+##Alejandro Rodríguez
 ##Adrian Vidal Piñeiro
 ##Elena Quintela Babío
